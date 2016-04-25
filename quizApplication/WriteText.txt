@@ -1,0 +1,4 @@
+Welcome!
+Answer the following ques
+for each correct ans +3
+for each wrong ans -1
