@@ -1,1 +1,6 @@
 c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\bin\Debug\quizApplication.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\obj\Debug\quizApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\bin\Debug\quizApplication.exe
+c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\bin\Debug\quizApplication.pdb
+c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\obj\Debug\quizApplication.exe
+c:\users\admin\documents\visual studio 2015\Projects\quizApplication\quizApplication\obj\Debug\quizApplication.pdb
