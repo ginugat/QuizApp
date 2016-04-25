@@ -54,7 +54,7 @@ namespace quizzAp
             Console.ReadLine();
             Console.Clear();
 
-            for (int k = 0; k < 3; k++)
+            for (int k = 0; k < 10; k++)
             {
                 ReadText(k);
                 AnsEval(k);
